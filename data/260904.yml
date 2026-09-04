@@ -1,0 +1,64 @@
+about:
+  description:
+  |
+    🐚 Python-powered shell. Full-featured, cross-platform and AI-friendly.
+  license: NOASSERTION
+  homepage: http://xon.sh
+  head: 5947465
+  archived: false
+  latestVersion: 0.24.2
+  collectedAt: 2026-09-04T05:08:00Z
+timeline:
+  created: 2015-01-21
+  lastCommit: 2026-09-01
+  lastRelease: 2026-08-23
+popularity:
+  star: 9629
+  watcher: 99
+  fork: 735
+  release: 146
+  contributor: 349
+  pullRequest: 353
+  issue: 2852
+language:
+  Python: 3765977
+  Xonsh: 8737
+  Nix: 4863
+  HTML: 1053
+  Shell: 432
+  Batchfile: 138
+  PowerShell: 21
+totalBytes: 3781221
+recent:
+  last30d:
+    since: 2026-08-05
+    release: 1
+    mergedPR: 14
+    openPR: 3
+    closedIssue: 1
+    openIssue: 3
+    commit: 17
+  last90d:
+    since: 2026-06-06
+    release: 3
+    mergedPR: 52
+    openPR: 6
+    closedIssue: 9
+    openIssue: 4
+    commit: 66
+  last180d:
+    since: 2026-03-08
+    release: 15
+    mergedPR: 317
+    openPR: 8
+    closedIssue: 51
+    openIssue: 13
+    commit: 630
+  last360d:
+    since: 2025-09-09
+    release: 26
+    mergedPR: 408
+    openPR: 8
+    closedIssue: 125
+    openIssue: 24
+    commit: 935
