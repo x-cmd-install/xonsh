@@ -7,7 +7,7 @@ about:
   head: 5947465
   archived: false
   latestVersion: 0.24.2
-  collectedAt: 2026-09-04T20:14:13Z
+  collectedAt: 2026-09-04T20:26:07Z
 timeline:
   created: 2015-01-21
   lastCommit: 2026-09-01
@@ -87,7 +87,7 @@ total:
   commit: 11961
 ---
 path: /home/runner/.x-repo/github.com/xonsh/xonsh
-collectedAt: 2026-09-04T20:14:15Z
+collectedAt: 2026-09-04T20:26:10Z
 loc:
   Python:
     code: 89499
