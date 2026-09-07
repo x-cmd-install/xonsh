@@ -5,18 +5,18 @@ about:
   head: e4181e3
   archived: false
   latestVersion: "0.24.2"
-  collectedAt: 2026-09-07T04:49:03Z
+  collectedAt: 2026-09-07T19:43:49Z
 timeline:
   created: 2015-01-21
   lastCommit: 2026-09-06
   lastRelease: 2026-08-23
 popularity:
-  star: 9633
+  star: 9635
   watcher: 100
   fork: 739
   release: 146
   contributor: 349
-  pullRequest: 3413
+  pullRequest: 3414
   issue: 2852
 language:
   Python: 3765977
@@ -32,7 +32,7 @@ recent:
     since: 2026-08-08
     release: 1
     mergedPR: 15
-    openPR: 6
+    openPR: 7
     closedIssue: 1
     openIssue: 2
     commit: 16
@@ -40,7 +40,7 @@ recent:
     since: 2026-07-09
     release: 2
     mergedPR: 32
-    openPR: 8
+    openPR: 9
     closedIssue: 4
     openIssue: 4
     commit: 41
@@ -48,7 +48,7 @@ recent:
     since: 2026-06-09
     release: 3
     mergedPR: 50
-    openPR: 9
+    openPR: 10
     closedIssue: 9
     openIssue: 4
     commit: 61
@@ -56,7 +56,7 @@ recent:
     since: 2026-03-11
     release: 14
     mergedPR: 310
-    openPR: 11
+    openPR: 12
     closedIssue: 49
     openIssue: 13
     commit: 597
@@ -64,7 +64,7 @@ recent:
     since: 2025-09-12
     release: 26
     mergedPR: 409
-    openPR: 11
+    openPR: 12
     closedIssue: 125
     openIssue: 24
     commit: 933
@@ -72,20 +72,20 @@ recent:
     since: 2024-09-17
     release: 36
     mergedPR: 483
-    openPR: 11
+    openPR: 12
     closedIssue: 214
     openIssue: 27
     commit: 1164
 total:
   release: 146
   mergedPR: 3057
-  openPR: 11
+  openPR: 12
   closedIssue: 2785
   openIssue: 67
   commit: 11962
 ---
 path: /home/runner/.x-repo/github.com/xonsh/xonsh
-collectedAt: 2026-09-07T04:49:09Z
+collectedAt: 2026-09-07T19:43:53Z
 loc:
   Python:
     code: 89499
@@ -355,7 +355,7 @@ checks:
       - 'Info: Project packages its releases by way of GitHub Actions.: .github/workflows/publish.yml:11'
 ---
 eget:
-  collectedAt: 2026-09-07T04:49:10+00:00
+  collectedAt: 2026-09-07T19:43:53+00:00
   platform:
     darwin/arm64:
       name:  null
