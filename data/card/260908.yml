@@ -5,13 +5,13 @@ about:
   head: e4181e3
   archived: false
   latestVersion: "0.24.2"
-  collectedAt: 2026-09-08T02:08:34Z
+  collectedAt: 2026-09-08T04:57:14Z
 timeline:
   created: 2015-01-21
   lastCommit: 2026-09-06
   lastRelease: 2026-08-23
 popularity:
-  star: 9635
+  star: 9636
   watcher: 100
   fork: 740
   release: 146
@@ -85,7 +85,7 @@ total:
   commit: 11962
 ---
 path: /home/runner/.x-repo/github.com/xonsh/xonsh
-collectedAt: 2026-09-08T02:08:41Z
+collectedAt: 2026-09-08T04:57:19Z
 loc:
   Python:
     code: 89499

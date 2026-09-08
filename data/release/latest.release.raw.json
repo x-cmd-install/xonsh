@@ -67,7 +67,7 @@
       "state": "uploaded",
       "size": 29108728,
       "digest": "sha256:20dfa7c10d09414e37cc582dc6c82097d5541428f955ffc7856281c240a08f4c",
-      "download_count": 52,
+      "download_count": 53,
       "created_at": "2026-08-23T15:40:32Z",
       "updated_at": "2026-08-23T15:40:33Z",
       "browser_download_url": "https://github.com/xonsh/xonsh/releases/download/0.24.2/xonsh-x86_64.AppImage"
@@ -103,7 +103,7 @@
       "state": "uploaded",
       "size": 88,
       "digest": "sha256:4596cb38e8dd951aaa496f525ace262b3b91e424df08ae83bea2af1272f55522",
-      "download_count": 44,
+      "download_count": 45,
       "created_at": "2026-08-23T15:40:32Z",
       "updated_at": "2026-08-23T15:40:32Z",
       "browser_download_url": "https://github.com/xonsh/xonsh/releases/download/0.24.2/xonsh-x86_64.AppImage.sha256"
