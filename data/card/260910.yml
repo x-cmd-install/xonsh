@@ -7,7 +7,7 @@ about:
   latestVersion: "0.24.2"
   latestRelease: "0.24.2"
   latestPrerelease: "nightly-build"
-  collectedAt: 2026-09-10T21:38:44Z
+  collectedAt: 2026-09-10T22:13:06Z
 timeline:
   created: 2015-01-21
   lastCommit: 2026-09-10
@@ -89,7 +89,7 @@ total:
   commit: 11965
 ---
 path: /home/runner/.x-repo/github.com/xonsh/xonsh
-collectedAt: 2026-09-10T21:38:50Z
+collectedAt: 2026-09-10T22:13:13Z
 loc:
   Python:
     code: 89749
