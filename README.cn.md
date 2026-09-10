@@ -4,7 +4,7 @@
 
 🐚 Python-powered shell. Full-featured, cross-platform and AI-friendly.
 
-![xonsh](https://repo.x-cmd.io/xonsh.svg)
+![xonsh](https://repo.x-cmd.io/xonsh.svg?lang=zh)
 
 ## 安装
 
@@ -23,11 +23,17 @@ x install xonsh
 - **最新版本**: `0.24.2` (2026-08-23)
 - **最近提交**: 2026-09-09
 - **Release 含资产**: 2 个
-- **发布时间**: 2026-08-23T15:39:49Z
+
+## Release 资产
+
+| 资产 | 大小 | 目标平台 |
+|------|-----:|----------|
+| [xonsh-x86_64.AppImage](https://github.com/xonsh/xonsh/releases/download/0.24.2/xonsh-x86_64.AppImage) | 27.8 MiB | `other` |
+| [xonsh-x86_64.AppImage.sha256](https://github.com/xonsh/xonsh/releases/download/0.24.2/xonsh-x86_64.AppImage.sha256) | 88 B | `other` |
 
 ## 流行度
 
-- **Star**: 9,635 · **Fork**: 740 · **开放 issue**: 2,852 · **贡献者**: 350
+- **Star**: 9,638 · **Fork**: 740 · **开放 issue**: 2,852 · **贡献者**: 350
 
 ## 累计统计
 
@@ -72,4 +78,4 @@ xonsh 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install) �
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/260910.yml` · 2026-09-10T04:57:26Z._
+_数据快照: `data/card/260910.yml` · 2026-09-10T16:43:08Z._

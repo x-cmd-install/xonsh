@@ -23,11 +23,17 @@ x install xonsh
 - **Latest**: `0.24.2` (2026-08-23)
 - **Last commit**: 2026-09-09
 - **Assets in release**: 2
-- **Published**: 2026-08-23T15:39:49Z
+
+## Release assets
+
+| Asset | Size | Target |
+|-------|-----:|--------|
+| [xonsh-x86_64.AppImage](https://github.com/xonsh/xonsh/releases/download/0.24.2/xonsh-x86_64.AppImage) | 27.8 MiB | `other` |
+| [xonsh-x86_64.AppImage.sha256](https://github.com/xonsh/xonsh/releases/download/0.24.2/xonsh-x86_64.AppImage.sha256) | 88 B | `other` |
 
 ## Popularity
 
-- **Stars**: 9,635 · **Forks**: 740 · **Open issues**: 2,852 · **Contributors**: 350
+- **Stars**: 9,638 · **Forks**: 740 · **Open issues**: 2,852 · **Contributors**: 350
 
 ## Totals (cumulative)
 
@@ -68,8 +74,8 @@ Lowest-scoring checks:
 Install metadata for xonsh lives in the [x-cmd/install](https://github.com/x-cmd/install) index — a curated YAML package list that x-cmd consumes at install time. If `xonsh` is missing, out of date, or installs incorrectly, please open an issue or PR there:
 
 - **Open an issue**: <https://github.com/x-cmd/install/issues/new>
-- **Edit the package entry**: <https://github.com/x-cmd/edit/main/xonsh.yml> (or whichever path the index uses)
+- **Edit the package entry**: <https://github.com/x-cmd/install/edit/main/xonsh.yml> (or whichever path the index uses)
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260910.yml` · 2026-09-10T04:57:26Z._
+_Snapshot: `data/card/260910.yml` · 2026-09-10T16:43:07Z._
