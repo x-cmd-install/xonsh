@@ -7,7 +7,7 @@ about:
   latestVersion: "0.24.2"
   latestRelease: "0.24.2"
   latestPrerelease: "nightly-build"
-  collectedAt: 2026-09-10T04:57:16Z
+  collectedAt: 2026-09-10T16:42:50Z
 timeline:
   created: 2015-01-21
   lastCommit: 2026-09-09
@@ -15,7 +15,7 @@ timeline:
   lastRelease: 2026-08-23
   lastPrerelease: 2026-04-16
 popularity:
-  star: 9635
+  star: 9638
   watcher: 100
   fork: 740
   release: 146
@@ -89,7 +89,7 @@ total:
   commit: 11964
 ---
 path: /home/runner/.x-repo/github.com/xonsh/xonsh
-collectedAt: 2026-09-10T04:57:21Z
+collectedAt: 2026-09-10T16:42:56Z
 loc:
   Python:
     code: 89499
