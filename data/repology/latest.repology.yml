@@ -1,45 +1,14 @@
-- repo: parrot
-  subrepo: parrot/main
+- repo: manjaro_stable
+  subrepo: extra
   srcname: xonsh
-  binnames:
-    - xonsh
-    - xonsh-doc
-  visiblename: xonsh
-  version: 0.19.4
-  origversion: 0.19.4+dfsg-1
-  status: outdated
-  maintainers:
-    - team+python@tracker.debian.org
-    - gordon@chronitis.net
-  categories:
-    - misc
-- repo: aosc
-  srcname: lang-python/xonsh
   binname: xonsh
   visiblename: xonsh
   version: 0.24.2
-  origversion: null
+  origversion: 0.24.2-1
   status: newest
-  summary: Python-powered shell
-  maintainers:
-    - fallback-mnt-aosc@repology
-  categories:
-    - shells
-- repo: parrot
-  subrepo: parrot-updates/main
-  srcname: xonsh
-  binnames:
-    - xonsh
-    - xonsh-doc
-  visiblename: xonsh
-  version: 0.19.4
-  origversion: 0.19.4+dfsg-1
-  status: outdated
-  maintainers:
-    - team+python@tracker.debian.org
-    - gordon@chronitis.net
-  categories:
-    - misc
+  summary: A python-powered shell. Full-featured and cross-platform.
+  licenses:
+    - BSD-2-Clause
 - repo: alpine_edge
   subrepo: testing
   srcname: xonsh
@@ -66,6 +35,18 @@
     - donoban@riseup.net
   licenses:
     - BSD-2-Clause
+- repo: aosc
+  srcname: lang-python/xonsh
+  binname: xonsh
+  visiblename: xonsh
+  version: 0.24.2
+  origversion: null
+  status: newest
+  summary: Python-powered shell
+  maintainers:
+    - fallback-mnt-aosc@repology
+  categories:
+    - shells
 - repo: arch
   subrepo: extra
   srcname: xonsh
@@ -165,6 +146,17 @@
     - gordon@chronitis.net
   categories:
     - misc
+- repo: manjaro_testing
+  subrepo: extra
+  srcname: xonsh
+  binname: xonsh
+  visiblename: xonsh
+  version: 0.24.2
+  origversion: 0.24.2-1
+  status: newest
+  summary: A python-powered shell. Full-featured and cross-platform.
+  licenses:
+    - BSD-2-Clause
 - repo: debian_14
   subrepo: forky/main
   srcname: xonsh
@@ -298,20 +290,6 @@
   categories:
     - Unspecified
 - repo: fedora_41
-  subrepo: release
-  srcname: xonsh
-  binnames:
-    - xonsh
-  visiblename: xonsh
-  version: 0.18.3
-  origversion: 0.18.3-1.fc41
-  status: legacy
-  summary: A general purpose, Python-ish shell
-  licenses:
-    - BSD-2-Clause AND MIT
-  categories:
-    - Unspecified
-- repo: fedora_41
   subrepo: updates
   srcname: xonsh
   binnames:
@@ -320,6 +298,20 @@
   version: 0.19.9
   origversion: 0.19.9-1.fc41
   status: outdated
+  summary: A general purpose, Python-ish shell
+  licenses:
+    - BSD-2-Clause AND MIT
+  categories:
+    - Unspecified
+- repo: fedora_41
+  subrepo: release
+  srcname: xonsh
+  binnames:
+    - xonsh
+  visiblename: xonsh
+  version: 0.18.3
+  origversion: 0.18.3-1.fc41
+  status: legacy
   summary: A general purpose, Python-ish shell
   licenses:
     - BSD-2-Clause AND MIT
@@ -483,28 +475,6 @@
     - Permissive
   categories:
     - shells
-- repo: manjaro_stable
-  subrepo: extra
-  srcname: xonsh
-  binname: xonsh
-  visiblename: xonsh
-  version: 0.24.2
-  origversion: 0.24.2-1
-  status: newest
-  summary: A python-powered shell. Full-featured and cross-platform.
-  licenses:
-    - BSD-2-Clause
-- repo: manjaro_testing
-  subrepo: extra
-  srcname: xonsh
-  binname: xonsh
-  visiblename: xonsh
-  version: 0.24.2
-  origversion: 0.24.2-1
-  status: newest
-  summary: A python-powered shell. Full-featured and cross-platform.
-  licenses:
-    - BSD-2-Clause
 - repo: manjaro_unstable
   subrepo: extra
   srcname: xonsh
@@ -667,6 +637,36 @@
   visiblename: xonsh
   version: 0.9.25
   origversion: 0.9.25+dfsg-1
+  status: outdated
+  maintainers:
+    - team+python@tracker.debian.org
+    - gordon@chronitis.net
+  categories:
+    - misc
+- repo: parrot
+  subrepo: parrot-updates/main
+  srcname: xonsh
+  binnames:
+    - xonsh
+    - xonsh-doc
+  visiblename: xonsh
+  version: 0.19.4
+  origversion: 0.19.4+dfsg-1
+  status: outdated
+  maintainers:
+    - team+python@tracker.debian.org
+    - gordon@chronitis.net
+  categories:
+    - misc
+- repo: parrot
+  subrepo: parrot/main
+  srcname: xonsh
+  binnames:
+    - xonsh
+    - xonsh-doc
+  visiblename: xonsh
+  version: 0.19.4
+  origversion: 0.19.4+dfsg-1
   status: outdated
   maintainers:
     - team+python@tracker.debian.org
@@ -962,21 +962,6 @@
     - universe/misc
 - repo: ubuntu_26_10
   subrepo: stonking/universe
-  srcname: xonsh
-  binnames:
-    - xonsh
-    - xonsh-doc
-  visiblename: xonsh
-  version: 0.22.8
-  origversion: 0.22.8+dfsg-1
-  status: outdated
-  maintainers:
-    - team+python@tracker.debian.org
-    - gordon@chronitis.net
-  categories:
-    - universe/misc
-- repo: ubuntu_26_10_proposed
-  subrepo: stonking-proposed/universe
   srcname: xonsh
   binnames:
     - xonsh
