@@ -43,27 +43,27 @@ x install xonsh
 ## 发布
 
 - **最新版本**: `0.24.2` (2026-08-23)
-- **最近提交**: 2026-09-10
+- **最近提交**: 2026-09-13
 - **Release 含资产**: 2 个
 
 ## 流行度
 
-- **Star**: 9,642 · **Fork**: 740 · **开放 issue**: 2,853 · **贡献者**: 350
+- **Star**: 9,642 · **Fork**: 741 · **开放 issue**: 2,853 · **贡献者**: 350
 
 ## 累计统计
 
-- **发布数**: 146 · **已合并 PR**: 3060 · **开放 PR**: 10 · **已关闭 issue**: 2785 · **开放 issue**: 68 · **提交数**: 11965
+- **发布数**: 146 · **已合并 PR**: 3061 · **开放 PR**: 11 · **已关闭 issue**: 2785 · **开放 issue**: 68 · **提交数**: 11966
 
 ## 最近活动
 
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-14 | 1 | 14 | 4 | 1 | 3 | 15 |
-| last60d | 2026-07-15 | 2 | 31 | 7 | 3 | 5 | 32 |
-| 90d | 2026-06-15 | 3 | 49 | 8 | 8 | 5 | 59 |
-| last180d | 2026-03-17 | 14 | 309 | 10 | 48 | 14 | 587 |
-| 360d | 2025-09-18 | 26 | 412 | 10 | 125 | 25 | 935 |
-| last720d | 2024-09-23 | 36 | 485 | 10 | 211 | 28 | 1165 |
+| 30d | 2026-08-15 | 1 | 15 | 5 | 1 | 3 | 16 |
+| last60d | 2026-07-16 | 2 | 32 | 8 | 3 | 5 | 33 |
+| 90d | 2026-06-16 | 3 | 50 | 9 | 8 | 5 | 60 |
+| last180d | 2026-03-18 | 13 | 308 | 11 | 48 | 14 | 588 |
+| 360d | 2025-09-19 | 26 | 413 | 11 | 125 | 25 | 936 |
+| last720d | 2024-09-24 | 36 | 486 | 11 | 211 | 28 | 1165 |
 
 ## Release 资产
 
@@ -71,25 +71,6 @@ x install xonsh
 |------|-----:|----------|
 | [xonsh-x86_64.AppImage](https://github.com/xonsh/xonsh/releases/download/0.24.2/xonsh-x86_64.AppImage) | 27.8 MiB | `other` |
 | [xonsh-x86_64.AppImage.sha256](https://github.com/xonsh/xonsh/releases/download/0.24.2/xonsh-x86_64.AppImage.sha256) | 88 B | `other` |
-
-## 发行版状态
-
-在 [repology.org](https://repology.org/project/xonsh) 上共有 **76** 个发行版报告此项目。**12** 个 ✅ 已是最新上游版本，**58** 个 ⚠️ 使用旧版本。
-
-| 发行版 | 版本 | 状态 |
-|--------|------|------|
-| Debian unstable | `0.24.0` | ⚠️ outdated |
-| Debian 14 | `0.24.0` | ⚠️ outdated |
-| Debian 13 | `0.19.4` | ⚠️ outdated |
-| Ubuntu 26.04 LTS | `0.22.3` | ⚠️ outdated |
-| Ubuntu 24.04 LTS | `0.14.4` | ⚠️ outdated |
-| Arch | `0.24.2` | ✅ latest |
-| Homebrew | `0.24.2` | ✅ latest |
-| Fedora rawhide | `0.24.1` | ⚠️ outdated |
-| Nix unstable | `0.24.2` | ✅ latest |
-| Void | `0.23.1` | ⚠️ outdated |
-| Alpine edge | `0.22.8` | ⚠️ outdated |
-| openSUSE Tumbleweed | `0.24.0` | ⚠️ outdated |
 
 ## 改进这些数据
 
@@ -100,4 +81,4 @@ xonsh 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install) �
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/260913.yml` · 2026-09-13T05:13:39Z._
+_数据快照: `data/card/260914.yml` · 2026-09-14T05:15:35Z._
