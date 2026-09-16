@@ -14,11 +14,11 @@ x install xonsh
 
 ## 代码洞察
 
-合计: **133,242** 行代码（覆盖前 5 种语言、共 **442** 个文件）。
+合计: **133,352** 行代码（覆盖前 5 种语言、共 **442** 个文件）。
 
 | 语言 | 代码 | 注释 | 空行 | 文件数 |
 |------|-----:|-----:|-----:|------:|
-| Python | 89,936 | 7,705 | 18,003 | 340 |
+| Python | 90,046 | 7,723 | 18,028 | 340 |
 | Css | 23,617 | 467 | 2,968 | 23 |
 | ReStructuredText | 9,579 | 0 | 3,599 | 53 |
 | Svg | 8,697 | 5 | 2 | 6 |
@@ -30,9 +30,9 @@ x install xonsh
 
 评分最低的几项:
 
-- **Code-Review** (3/10) — Found 5/13 approved changesets -- score normalized to 3
+- **Code-Review** (3/10) — Found 5/14 approved changesets -- score normalized to 3
 - **Token-Permissions** (0/10) — detected GitHub workflow tokens with excessive permissions
-- **CII-Best-Practices** (0/10) — no effort to earn an OpenSSF best practices badge detected
+- **Pinned-Dependencies** (0/10) — dependency not pinned by hash detected -- score normalized to 0
 
 ## 源代码
 
@@ -43,27 +43,27 @@ x install xonsh
 ## 发布
 
 - **最新版本**: `0.24.2` (2026-08-23)
-- **最近提交**: 2026-09-14
+- **最近提交**: 2026-09-15
 - **Release 含资产**: 2 个
 
 ## 流行度
 
-- **Star**: 9,642 · **Fork**: 740 · **开放 issue**: 2,853 · **贡献者**: 350
+- **Star**: 9,644 · **Fork**: 740 · **开放 issue**: 2,853 · **贡献者**: 351
 
 ## 累计统计
 
-- **发布数**: 146 · **已合并 PR**: 3063 · **开放 PR**: 11 · **已关闭 issue**: 2786 · **开放 issue**: 67 · **提交数**: 11968
+- **发布数**: 146 · **已合并 PR**: 3065 · **开放 PR**: 10 · **已关闭 issue**: 2787 · **开放 issue**: 66 · **提交数**: 11970
 
 ## 最近活动
 
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-16 | 1 | 16 | 5 | 1 | 3 | 18 |
-| last60d | 2026-07-17 | 2 | 33 | 8 | 3 | 5 | 35 |
-| 90d | 2026-06-17 | 3 | 52 | 9 | 8 | 5 | 62 |
-| last180d | 2026-03-19 | 13 | 309 | 11 | 48 | 14 | 590 |
-| 360d | 2025-09-20 | 26 | 415 | 11 | 125 | 25 | 938 |
-| last720d | 2024-09-25 | 36 | 488 | 11 | 211 | 28 | 1166 |
+| 30d | 2026-08-17 | 1 | 17 | 4 | 2 | 2 | 22 |
+| last60d | 2026-07-18 | 2 | 34 | 7 | 4 | 4 | 39 |
+| 90d | 2026-06-18 | 3 | 54 | 8 | 9 | 4 | 66 |
+| last180d | 2026-03-20 | 13 | 311 | 10 | 47 | 12 | 594 |
+| 360d | 2025-09-21 | 26 | 417 | 10 | 126 | 24 | 942 |
+| last720d | 2024-09-26 | 36 | 490 | 10 | 211 | 27 | 1168 |
 
 ## Release 资产
 
@@ -81,4 +81,4 @@ xonsh 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install) �
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/260915.yml` · 2026-09-15T05:32:35Z._
+_数据快照: `data/card/260916.yml` · 2026-09-16T05:18:43Z._
