@@ -4,7 +4,7 @@
 
 🐚 Python-powered shell. Full-featured, cross-platform and AI-friendly.
 
-![xonsh](https://repo.x-cmd.io/xonsh.svg)
+[![x-cmd/install — xonsh Code Quality Monitoring Repo Card](https://repo.x-cmd.io/xonsh.svg)](https://x-cmd.com/install/xonsh)
 
 ## Install
 
@@ -48,22 +48,22 @@ Lowest-scoring checks:
 
 ## Popularity
 
-- **Stars**: 9,642 · **Forks**: 740 · **Open issues**: 2,853 · **Contributors**: 351
+- **Stars**: 9,644 · **Forks**: 741 · **Open issues**: 2,853 · **Contributors**: 351
 
 ## Totals (cumulative)
 
-- **Releases**: 146 · **Merged PRs**: 3066 · **Open PRs**: 9 · **Closed issues**: 2787 · **Open issues**: 66 · **Commits**: 11971
+- **Releases**: 146 · **Merged PRs**: 3066 · **Open PRs**: 10 · **Closed issues**: 2787 · **Open issues**: 66 · **Commits**: 11971
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-19 | 1 | 17 | 3 | 2 | 2 | 23 |
-| last60d | 2026-07-20 | 2 | 31 | 5 | 4 | 4 | 40 |
-| 90d | 2026-06-20 | 3 | 54 | 7 | 8 | 4 | 67 |
-| last180d | 2026-03-22 | 13 | 311 | 9 | 46 | 12 | 595 |
-| 360d | 2025-09-23 | 26 | 418 | 9 | 126 | 24 | 943 |
-| last720d | 2024-09-28 | 36 | 491 | 9 | 211 | 27 | 1169 |
+| 30d | 2026-08-21 | 1 | 15 | 4 | 1 | 2 | 12 |
+| last60d | 2026-07-22 | 2 | 31 | 6 | 4 | 3 | 37 |
+| 90d | 2026-06-22 | 3 | 51 | 7 | 8 | 4 | 64 |
+| last180d | 2026-03-24 | 13 | 306 | 10 | 46 | 12 | 482 |
+| 360d | 2025-09-25 | 26 | 418 | 10 | 126 | 23 | 943 |
+| last720d | 2024-09-30 | 36 | 490 | 10 | 210 | 27 | 1169 |
 
 ## Release assets
 
@@ -81,4 +81,4 @@ Install metadata for xonsh lives in the [x-cmd/install](https://github.com/x-cmd
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260918.yml` · 2026-09-18T05:07:13Z._
+_Snapshot: `data/card/260920.yml` · 2026-09-20T05:16:51Z._
