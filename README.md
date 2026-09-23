@@ -4,7 +4,7 @@
 
 🐚 Python-powered shell. Full-featured, cross-platform and AI-friendly.
 
-[![x-cmd/install — xonsh Code Quality Monitoring Repo Card](https://repo.x-cmd.io/xonsh.svg)](https://x-cmd.com/install/xonsh)
+[![x-cmd/install — xonsh Code Quality Monitoring Repo Card](https://x-cmd.com/repo-card/xonsh.svg)](https://x-cmd.com/install/xonsh)
 
 ## Install
 
@@ -30,9 +30,9 @@ Overall score: **4.5 / 10**
 
 Lowest-scoring checks:
 
-- **Code-Review** (3/10) — Found 5/14 approved changesets -- score normalized to 3
+- **Code-Review** (4/10) — Found 6/14 approved changesets -- score normalized to 4
 - **Token-Permissions** (0/10) — detected GitHub workflow tokens with excessive permissions
-- **Pinned-Dependencies** (0/10) — dependency not pinned by hash detected -- score normalized to 0
+- **CII-Best-Practices** (0/10) — no effort to earn an OpenSSF best practices badge detected
 
 ## Source
 
@@ -43,27 +43,27 @@ Lowest-scoring checks:
 ## Release
 
 - **Latest**: `0.24.2` (2026-08-23)
-- **Last commit**: 2026-09-21
+- **Last commit**: 2026-09-22
 - **Assets in release**: 2
 
 ## Popularity
 
-- **Stars**: 9,649 · **Forks**: 742 · **Open issues**: 2,853 · **Contributors**: 351
+- **Stars**: 9,651 · **Forks**: 743 · **Open issues**: 2,853 · **Contributors**: 351
 
 ## Totals (cumulative)
 
-- **Releases**: 146 · **Merged PRs**: 3067 · **Open PRs**: 10 · **Closed issues**: 2787 · **Open issues**: 66 · **Commits**: 11972
+- **Releases**: 146 · **Merged PRs**: 3068 · **Open PRs**: 9 · **Closed issues**: 2787 · **Open issues**: 66 · **Commits**: 11973
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-23 | 1 | 14 | 4 | 1 | 1 | 13 |
-| last60d | 2026-07-24 | 2 | 32 | 6 | 4 | 3 | 38 |
-| 90d | 2026-06-24 | 3 | 52 | 7 | 8 | 4 | 65 |
-| last180d | 2026-03-26 | 13 | 296 | 10 | 45 | 11 | 483 |
-| 360d | 2025-09-27 | 26 | 419 | 10 | 126 | 23 | 944 |
-| last720d | 2024-10-02 | 36 | 490 | 10 | 209 | 27 | 1170 |
+| 30d | 2026-08-24 | 0 | 14 | 2 | 1 | 1 | 14 |
+| last60d | 2026-07-25 | 2 | 33 | 5 | 4 | 3 | 39 |
+| 90d | 2026-06-25 | 3 | 53 | 6 | 8 | 4 | 66 |
+| last180d | 2026-03-27 | 13 | 290 | 9 | 44 | 11 | 484 |
+| 360d | 2025-09-28 | 26 | 420 | 9 | 126 | 23 | 945 |
+| last720d | 2024-10-03 | 36 | 490 | 9 | 208 | 27 | 1171 |
 
 ## Release assets
 
@@ -81,4 +81,4 @@ Install metadata for xonsh lives in the [x-cmd/install](https://github.com/x-cmd
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260922.yml` · 2026-09-22T05:15:55Z._
+_Snapshot: `data/card/260923.yml` · 2026-09-23T05:06:48Z._
