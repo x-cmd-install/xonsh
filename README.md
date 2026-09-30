@@ -58,12 +58,12 @@ Lowest-scoring checks:
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-30 | 0 | 15 | 2 | 2 | 1 | 15 |
-| last60d | 2026-07-31 | 2 | 30 | 4 | 3 | 3 | 36 |
-| 90d | 2026-07-01 | 3 | 49 | 6 | 7 | 4 | 60 |
-| last180d | 2026-04-02 | 13 | 270 | 9 | 40 | 11 | 396 |
-| 360d | 2025-10-04 | 26 | 422 | 9 | 127 | 23 | 947 |
-| last720d | 2024-10-09 | 36 | 492 | 9 | 208 | 27 | 1170 |
+| 30d | 2026-08-31 | 0 | 14 | 2 | 2 | 1 | 15 |
+| last60d | 2026-08-01 | 1 | 30 | 4 | 3 | 3 | 36 |
+| 90d | 2026-07-02 | 3 | 48 | 6 | 7 | 4 | 60 |
+| last180d | 2026-04-03 | 13 | 260 | 9 | 38 | 11 | 396 |
+| 360d | 2025-10-05 | 26 | 422 | 9 | 127 | 23 | 947 |
+| last720d | 2024-10-10 | 36 | 492 | 9 | 208 | 27 | 1170 |
 
 ## Release assets
 
@@ -81,4 +81,4 @@ Install metadata for xonsh lives in the [x-cmd/install](https://github.com/x-cmd
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260929.yml` · 2026-09-29T05:54:50Z._
+_Snapshot: `data/card/260930.yml` · 2026-09-30T05:44:24Z._
