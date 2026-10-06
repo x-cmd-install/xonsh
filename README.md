@@ -14,11 +14,11 @@ x install xonsh
 
 ## Code insight
 
-Total: **133,380** lines of code across **442** files in the top 5 languages.
+Total: **133,528** lines of code across **443** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| Python | 90,074 | 7,726 | 18,038 | 340 |
+| Python | 90,222 | 7,729 | 18,079 | 341 |
 | Css | 23,617 | 467 | 2,968 | 23 |
 | ReStructuredText | 9,579 | 0 | 3,599 | 53 |
 | Svg | 8,697 | 5 | 2 | 6 |
@@ -43,27 +43,27 @@ Lowest-scoring checks:
 ## Release
 
 - **Latest**: `0.24.2` (2026-08-23)
-- **Last commit**: 2026-10-05
+- **Last commit**: 2026-10-06
 - **Assets in release**: 2
 
 ## Popularity
 
-- **Stars**: 9,659 · **Forks**: 746 · **Open issues**: 2,855 · **Contributors**: 351
+- **Stars**: 9,659 · **Forks**: 747 · **Open issues**: 2,854 · **Contributors**: 352
 
 ## Totals (cumulative)
 
-- **Releases**: 146 · **Merged PRs**: 3071 · **Open PRs**: 10 · **Closed issues**: 2788 · **Open issues**: 67 · **Commits**: 11976
+- **Releases**: 146 · **Merged PRs**: 3073 · **Open PRs**: 10 · **Closed issues**: 2788 · **Open issues**: 66 · **Commits**: 11978
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-05 | 0 | 14 | 2 | 2 | 1 | 13 |
-| last60d | 2026-08-06 | 1 | 29 | 5 | 3 | 3 | 31 |
-| 90d | 2026-07-07 | 2 | 48 | 7 | 7 | 5 | 58 |
-| last180d | 2026-04-08 | 13 | 238 | 10 | 36 | 10 | 318 |
-| 360d | 2025-10-10 | 26 | 423 | 10 | 126 | 24 | 946 |
-| last720d | 2024-10-15 | 36 | 493 | 10 | 207 | 28 | 1171 |
+| 30d | 2026-09-06 | 0 | 15 | 2 | 2 | 0 | 15 |
+| last60d | 2026-08-07 | 1 | 31 | 5 | 3 | 2 | 33 |
+| 90d | 2026-07-08 | 2 | 48 | 7 | 6 | 4 | 60 |
+| last180d | 2026-04-09 | 13 | 232 | 10 | 34 | 9 | 320 |
+| 360d | 2025-10-11 | 26 | 425 | 10 | 126 | 23 | 948 |
+| last720d | 2024-10-16 | 36 | 495 | 10 | 207 | 27 | 1173 |
 
 ## Release assets
 
@@ -81,4 +81,4 @@ Install metadata for xonsh lives in the [x-cmd/install](https://github.com/x-cmd
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261005.yml` · 2026-10-05T05:47:52Z._
+_Snapshot: `data/card/261006.yml` · 2026-10-06T06:31:02Z._
