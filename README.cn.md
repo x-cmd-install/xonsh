@@ -31,8 +31,8 @@ x install xonsh
 评分最低的几项:
 
 - **Token-Permissions** (0/10) — detected GitHub workflow tokens with excessive permissions
-- **CII-Best-Practices** (0/10) — no effort to earn an OpenSSF best practices badge detected
 - **Pinned-Dependencies** (0/10) — dependency not pinned by hash detected -- score normalized to 0
+- **CII-Best-Practices** (0/10) — no effort to earn an OpenSSF best practices badge detected
 
 ## 源代码
 
@@ -43,27 +43,27 @@ x install xonsh
 ## 发布
 
 - **最新版本**: `0.24.2` (2026-08-23)
-- **最近提交**: 2026-10-07
+- **最近提交**: 2026-10-13
 - **Release 含资产**: 2 个
 
 ## 流行度
 
-- **Star**: 9,667 · **Fork**: 748 · **开放 issue**: 2,855 · **贡献者**: 354
+- **Star**: 9,667 · **Fork**: 749 · **开放 issue**: 2,856 · **贡献者**: 354
 
 ## 累计统计
 
-- **发布数**: 146 · **已合并 PR**: 3076 · **开放 PR**: 14 · **已关闭 issue**: 2790 · **开放 issue**: 65 · **提交数**: 11981
+- **发布数**: 146 · **已合并 PR**: 3077 · **开放 PR**: 15 · **已关闭 issue**: 2790 · **开放 issue**: 66 · **提交数**: 11982
 
 ## 最近活动
 
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-13 | 0 | 14 | 5 | 1 | 1 | 11 |
-| last60d | 2026-08-14 | 1 | 30 | 8 | 3 | 3 | 34 |
-| 90d | 2026-07-15 | 2 | 47 | 11 | 5 | 5 | 52 |
-| last180d | 2026-04-16 | 13 | 199 | 13 | 31 | 9 | 264 |
-| 360d | 2025-10-18 | 26 | 425 | 14 | 126 | 24 | 952 |
-| last720d | 2024-10-23 | 36 | 496 | 14 | 202 | 28 | 1176 |
+| 30d | 2026-09-14 | 0 | 12 | 6 | 1 | 2 | 12 |
+| last60d | 2026-08-15 | 1 | 31 | 9 | 3 | 4 | 35 |
+| 90d | 2026-07-16 | 2 | 48 | 12 | 5 | 6 | 53 |
+| last180d | 2026-04-17 | 12 | 191 | 14 | 31 | 10 | 265 |
+| 360d | 2025-10-19 | 26 | 426 | 15 | 125 | 25 | 953 |
+| last720d | 2024-10-24 | 36 | 497 | 15 | 202 | 29 | 1177 |
 
 ## Release 资产
 
@@ -81,4 +81,4 @@ xonsh 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install) �
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/261013.yml` · 2026-10-13T07:08:04Z._
+_数据快照: `data/card/261014.yml` · 2026-10-14T05:04:40Z._

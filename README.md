@@ -31,8 +31,8 @@ Overall score: **4.8 / 10**
 Lowest-scoring checks:
 
 - **Token-Permissions** (0/10) — detected GitHub workflow tokens with excessive permissions
-- **CII-Best-Practices** (0/10) — no effort to earn an OpenSSF best practices badge detected
 - **Pinned-Dependencies** (0/10) — dependency not pinned by hash detected -- score normalized to 0
+- **CII-Best-Practices** (0/10) — no effort to earn an OpenSSF best practices badge detected
 
 ## Source
 
@@ -43,27 +43,27 @@ Lowest-scoring checks:
 ## Release
 
 - **Latest**: `0.24.2` (2026-08-23)
-- **Last commit**: 2026-10-07
+- **Last commit**: 2026-10-13
 - **Assets in release**: 2
 
 ## Popularity
 
-- **Stars**: 9,667 · **Forks**: 748 · **Open issues**: 2,855 · **Contributors**: 354
+- **Stars**: 9,667 · **Forks**: 749 · **Open issues**: 2,856 · **Contributors**: 354
 
 ## Totals (cumulative)
 
-- **Releases**: 146 · **Merged PRs**: 3076 · **Open PRs**: 14 · **Closed issues**: 2790 · **Open issues**: 65 · **Commits**: 11981
+- **Releases**: 146 · **Merged PRs**: 3077 · **Open PRs**: 15 · **Closed issues**: 2790 · **Open issues**: 66 · **Commits**: 11982
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-13 | 0 | 14 | 5 | 1 | 1 | 11 |
-| last60d | 2026-08-14 | 1 | 30 | 8 | 3 | 3 | 34 |
-| 90d | 2026-07-15 | 2 | 47 | 11 | 5 | 5 | 52 |
-| last180d | 2026-04-16 | 13 | 199 | 13 | 31 | 9 | 264 |
-| 360d | 2025-10-18 | 26 | 425 | 14 | 126 | 24 | 952 |
-| last720d | 2024-10-23 | 36 | 496 | 14 | 202 | 28 | 1176 |
+| 30d | 2026-09-14 | 0 | 12 | 6 | 1 | 2 | 12 |
+| last60d | 2026-08-15 | 1 | 31 | 9 | 3 | 4 | 35 |
+| 90d | 2026-07-16 | 2 | 48 | 12 | 5 | 6 | 53 |
+| last180d | 2026-04-17 | 12 | 191 | 14 | 31 | 10 | 265 |
+| 360d | 2025-10-19 | 26 | 426 | 15 | 125 | 25 | 953 |
+| last720d | 2024-10-24 | 36 | 497 | 15 | 202 | 29 | 1177 |
 
 ## Release assets
 
@@ -81,4 +81,4 @@ Install metadata for xonsh lives in the [x-cmd/install](https://github.com/x-cmd
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261013.yml` · 2026-10-13T07:08:03Z._
+_Snapshot: `data/card/261014.yml` · 2026-10-14T05:04:40Z._
