@@ -26,12 +26,12 @@ x install xonsh
 
 ## OpenSSF Scorecard 评分
 
-总评分: **4.8 / 10**
+总评分: **4.9 / 10**
 
 评分最低的几项:
 
 - **Token-Permissions** (0/10) — detected GitHub workflow tokens with excessive permissions
-- **Pinned-Dependencies** (0/10) — dependency not pinned by hash detected -- score normalized to 0
+- **Pinned-Dependencies** (3/10) — dependency not pinned by hash detected -- score normalized to 3
 - **CII-Best-Practices** (0/10) — no effort to earn an OpenSSF best practices badge detected
 
 ## 源代码
@@ -48,22 +48,22 @@ x install xonsh
 
 ## 流行度
 
-- **Star**: 9,681 · **Fork**: 749 · **开放 issue**: 2,859 · **贡献者**: 356
+- **Star**: 9,684 · **Fork**: 749 · **开放 issue**: 2,859 · **贡献者**: 356
 
 ## 累计统计
 
-- **发布数**: 146 · **已合并 PR**: 3082 · **开放 PR**: 21 · **已关闭 issue**: 2791 · **开放 issue**: 68 · **提交数**: 11989
+- **发布数**: 146 · **已合并 PR**: 3082 · **开放 PR**: 22 · **已关闭 issue**: 2791 · **开放 issue**: 68 · **提交数**: 11989
 
 ## 最近活动
 
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-21 | 0 | 14 | 11 | 2 | 4 | 17 |
-| last60d | 2026-08-22 | 1 | 30 | 14 | 3 | 6 | 31 |
-| 90d | 2026-07-23 | 2 | 47 | 16 | 6 | 7 | 59 |
-| last180d | 2026-04-24 | 10 | 171 | 19 | 28 | 12 | 240 |
-| 360d | 2025-10-26 | 26 | 430 | 20 | 123 | 27 | 958 |
-| last720d | 2024-10-31 | 36 | 500 | 20 | 201 | 30 | 1183 |
+| 30d | 2026-09-22 | 0 | 14 | 12 | 2 | 4 | 17 |
+| last60d | 2026-08-23 | 1 | 29 | 15 | 3 | 5 | 31 |
+| 90d | 2026-07-24 | 2 | 47 | 17 | 6 | 7 | 59 |
+| last180d | 2026-04-25 | 10 | 171 | 20 | 28 | 12 | 240 |
+| 360d | 2025-10-27 | 26 | 430 | 21 | 123 | 27 | 958 |
+| last720d | 2024-11-01 | 36 | 500 | 21 | 201 | 30 | 1182 |
 
 ## Release 资产
 
@@ -81,4 +81,4 @@ xonsh 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install) �
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/261021.yml` · 2026-10-21T04:55:09Z._
+_数据快照: `data/card/261022.yml` · 2026-10-22T04:53:46Z._
