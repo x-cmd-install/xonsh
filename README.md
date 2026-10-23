@@ -14,13 +14,13 @@ x install xonsh
 
 ## Code insight
 
-Total: **133,596** lines of code across **443** files in the top 5 languages.
+Total: **133,704** lines of code across **443** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| Python | 90,290 | 7,732 | 18,095 | 341 |
+| Python | 90,329 | 7,740 | 18,098 | 341 |
 | Css | 23,617 | 467 | 2,968 | 23 |
-| ReStructuredText | 9,579 | 0 | 3,599 | 53 |
+| ReStructuredText | 9,587 | 0 | 3,603 | 53 |
 | Svg | 8,697 | 5 | 2 | 6 |
 | JavaScript | 396 | 154 | 75 | 20 |
 
@@ -42,35 +42,54 @@ Lowest-scoring checks:
 
 ## Release
 
-- **Latest**: `0.24.2` (2026-08-23)
-- **Last commit**: 2026-10-20
+- **Latest**: `0.25.0` (2026-10-22)
+- **Last commit**: 2026-10-22
 - **Assets in release**: 2
 
 ## Popularity
 
-- **Stars**: 9,684 · **Forks**: 749 · **Open issues**: 2,859 · **Contributors**: 356
+- **Stars**: 9,685 · **Forks**: 750 · **Open issues**: 2,859 · **Contributors**: 356
 
 ## Totals (cumulative)
 
-- **Releases**: 146 · **Merged PRs**: 3082 · **Open PRs**: 22 · **Closed issues**: 2791 · **Open issues**: 68 · **Commits**: 11989
+- **Releases**: 147 · **Merged PRs**: 3085 · **Open PRs**: 19 · **Closed issues**: 2791 · **Open issues**: 68 · **Commits**: 11992
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-22 | 0 | 14 | 12 | 2 | 4 | 17 |
-| last60d | 2026-08-23 | 1 | 29 | 15 | 3 | 5 | 31 |
-| 90d | 2026-07-24 | 2 | 47 | 17 | 6 | 7 | 59 |
-| last180d | 2026-04-25 | 10 | 171 | 20 | 28 | 12 | 240 |
-| 360d | 2025-10-27 | 26 | 430 | 21 | 123 | 27 | 958 |
-| last720d | 2024-11-01 | 36 | 500 | 21 | 201 | 30 | 1182 |
+| 30d | 2026-09-23 | 1 | 16 | 10 | 2 | 4 | 21 |
+| last60d | 2026-08-24 | 1 | 31 | 11 | 3 | 5 | 35 |
+| 90d | 2026-07-25 | 3 | 50 | 14 | 6 | 7 | 63 |
+| last180d | 2026-04-26 | 11 | 171 | 17 | 28 | 12 | 244 |
+| 360d | 2025-10-28 | 27 | 433 | 18 | 123 | 27 | 962 |
+| last720d | 2024-11-02 | 37 | 502 | 18 | 201 | 30 | 1185 |
 
 ## Release assets
 
 | Asset | Size | Target |
 |-------|-----:|--------|
-| [xonsh-x86_64.AppImage](https://github.com/xonsh/xonsh/releases/download/0.24.2/xonsh-x86_64.AppImage) | 27.8 MiB | `other` |
-| [xonsh-x86_64.AppImage.sha256](https://github.com/xonsh/xonsh/releases/download/0.24.2/xonsh-x86_64.AppImage.sha256) | 88 B | `other` |
+| [xonsh-x86_64.AppImage](https://github.com/xonsh/xonsh/releases/download/0.25.0/xonsh-x86_64.AppImage) | 28.5 MiB | `other` |
+| [xonsh-x86_64.AppImage.sha256](https://github.com/xonsh/xonsh/releases/download/0.25.0/xonsh-x86_64.AppImage.sha256) | 88 B | `other` |
+
+## Distribution status
+
+Reported by **72** distros on [repology.org](https://repology.org/project/xonsh). **12** are ✅ on the latest upstream release, **54** are ⚠️ on an older version.
+
+| Distro | Version | Status |
+|--------|---------|--------|
+| Debian unstable | `0.24.0` | ⚠️ outdated |
+| Debian 14 | `0.24.0` | ⚠️ outdated |
+| Debian 13 | `0.19.4` | ⚠️ outdated |
+| Ubuntu 26.04 LTS | `0.22.3` | ⚠️ outdated |
+| Ubuntu 24.04 LTS | `0.14.4` | ⚠️ outdated |
+| Arch | `0.24.2` | ✅ latest |
+| Homebrew | `0.24.2` | ✅ latest |
+| Fedora rawhide | `0.24.1` | ⚠️ outdated |
+| Nix unstable | `0.24.2` | ✅ latest |
+| Void | `0.23.1` | ⚠️ outdated |
+| Alpine edge | `0.22.8` | ⚠️ outdated |
+| openSUSE Tumbleweed | `0.24.0` | ⚠️ outdated |
 
 ## Improve this data
 
@@ -81,4 +100,4 @@ Install metadata for xonsh lives in the [x-cmd/install](https://github.com/x-cmd
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261022.yml` · 2026-10-22T04:53:45Z._
+_Snapshot: `data/card/261023.yml` · 2026-10-23T04:57:08Z._
