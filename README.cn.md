@@ -48,7 +48,7 @@ x install xonsh
 
 ## 流行度
 
-- **Star**: 9,685 · **Fork**: 750 · **开放 issue**: 2,859 · **贡献者**: 356
+- **Star**: 9,686 · **Fork**: 751 · **开放 issue**: 2,859 · **贡献者**: 356
 
 ## 累计统计
 
@@ -58,12 +58,12 @@ x install xonsh
 
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-23 | 1 | 16 | 10 | 2 | 4 | 21 |
-| last60d | 2026-08-24 | 1 | 31 | 11 | 3 | 5 | 35 |
-| 90d | 2026-07-25 | 3 | 50 | 14 | 6 | 7 | 63 |
-| last180d | 2026-04-26 | 11 | 171 | 17 | 28 | 12 | 244 |
-| 360d | 2025-10-28 | 27 | 433 | 18 | 123 | 27 | 962 |
-| last720d | 2024-11-02 | 37 | 502 | 18 | 201 | 30 | 1185 |
+| 30d | 2026-09-24 | 1 | 16 | 10 | 2 | 4 | 21 |
+| last60d | 2026-08-25 | 1 | 31 | 11 | 3 | 5 | 35 |
+| 90d | 2026-07-26 | 3 | 49 | 14 | 5 | 7 | 63 |
+| last180d | 2026-04-27 | 10 | 168 | 17 | 27 | 12 | 244 |
+| 360d | 2025-10-29 | 27 | 433 | 18 | 123 | 27 | 962 |
+| last720d | 2024-11-03 | 36 | 501 | 18 | 200 | 30 | 1182 |
 
 ## Release 资产
 
@@ -74,7 +74,7 @@ x install xonsh
 
 ## 发行版状态
 
-在 [repology.org](https://repology.org/project/xonsh) 上共有 **72** 个发行版报告此项目。**12** 个 ✅ 已是最新上游版本，**54** 个 ⚠️ 使用旧版本。
+在 [repology.org](https://repology.org/project/xonsh) 上共有 **72** 个发行版报告此项目。**5** 个 ✅ 已是最新上游版本，**61** 个 ⚠️ 使用旧版本。
 
 | 发行版 | 版本 | 状态 |
 |--------|------|------|
@@ -83,10 +83,10 @@ x install xonsh
 | Debian 13 | `0.19.4` | ⚠️ outdated |
 | Ubuntu 26.04 LTS | `0.22.3` | ⚠️ outdated |
 | Ubuntu 24.04 LTS | `0.14.4` | ⚠️ outdated |
-| Arch | `0.24.2` | ✅ latest |
-| Homebrew | `0.24.2` | ✅ latest |
+| Arch | `0.25.0` | ✅ latest |
+| Homebrew | `0.25.0` | ✅ latest |
 | Fedora rawhide | `0.24.1` | ⚠️ outdated |
-| Nix unstable | `0.24.2` | ✅ latest |
+| Nix unstable | `0.24.2` | ⚠️ outdated |
 | Void | `0.23.1` | ⚠️ outdated |
 | Alpine edge | `0.22.8` | ⚠️ outdated |
 | openSUSE Tumbleweed | `0.24.0` | ⚠️ outdated |
@@ -100,4 +100,4 @@ xonsh 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install) �
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/261023.yml` · 2026-10-23T04:57:09Z._
+_数据快照: `data/card/261024.yml` · 2026-10-24T04:45:31Z._

@@ -48,7 +48,7 @@ Lowest-scoring checks:
 
 ## Popularity
 
-- **Stars**: 9,685 · **Forks**: 750 · **Open issues**: 2,859 · **Contributors**: 356
+- **Stars**: 9,686 · **Forks**: 751 · **Open issues**: 2,859 · **Contributors**: 356
 
 ## Totals (cumulative)
 
@@ -58,12 +58,12 @@ Lowest-scoring checks:
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-23 | 1 | 16 | 10 | 2 | 4 | 21 |
-| last60d | 2026-08-24 | 1 | 31 | 11 | 3 | 5 | 35 |
-| 90d | 2026-07-25 | 3 | 50 | 14 | 6 | 7 | 63 |
-| last180d | 2026-04-26 | 11 | 171 | 17 | 28 | 12 | 244 |
-| 360d | 2025-10-28 | 27 | 433 | 18 | 123 | 27 | 962 |
-| last720d | 2024-11-02 | 37 | 502 | 18 | 201 | 30 | 1185 |
+| 30d | 2026-09-24 | 1 | 16 | 10 | 2 | 4 | 21 |
+| last60d | 2026-08-25 | 1 | 31 | 11 | 3 | 5 | 35 |
+| 90d | 2026-07-26 | 3 | 49 | 14 | 5 | 7 | 63 |
+| last180d | 2026-04-27 | 10 | 168 | 17 | 27 | 12 | 244 |
+| 360d | 2025-10-29 | 27 | 433 | 18 | 123 | 27 | 962 |
+| last720d | 2024-11-03 | 36 | 501 | 18 | 200 | 30 | 1182 |
 
 ## Release assets
 
@@ -74,7 +74,7 @@ Lowest-scoring checks:
 
 ## Distribution status
 
-Reported by **72** distros on [repology.org](https://repology.org/project/xonsh). **12** are ✅ on the latest upstream release, **54** are ⚠️ on an older version.
+Reported by **72** distros on [repology.org](https://repology.org/project/xonsh). **5** are ✅ on the latest upstream release, **61** are ⚠️ on an older version.
 
 | Distro | Version | Status |
 |--------|---------|--------|
@@ -83,10 +83,10 @@ Reported by **72** distros on [repology.org](https://repology.org/project/xonsh)
 | Debian 13 | `0.19.4` | ⚠️ outdated |
 | Ubuntu 26.04 LTS | `0.22.3` | ⚠️ outdated |
 | Ubuntu 24.04 LTS | `0.14.4` | ⚠️ outdated |
-| Arch | `0.24.2` | ✅ latest |
-| Homebrew | `0.24.2` | ✅ latest |
+| Arch | `0.25.0` | ✅ latest |
+| Homebrew | `0.25.0` | ✅ latest |
 | Fedora rawhide | `0.24.1` | ⚠️ outdated |
-| Nix unstable | `0.24.2` | ✅ latest |
+| Nix unstable | `0.24.2` | ⚠️ outdated |
 | Void | `0.23.1` | ⚠️ outdated |
 | Alpine edge | `0.22.8` | ⚠️ outdated |
 | openSUSE Tumbleweed | `0.24.0` | ⚠️ outdated |
@@ -100,4 +100,4 @@ Install metadata for xonsh lives in the [x-cmd/install](https://github.com/x-cmd
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261023.yml` · 2026-10-23T04:57:08Z._
+_Snapshot: `data/card/261024.yml` · 2026-10-24T04:45:30Z._
