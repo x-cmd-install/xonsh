@@ -43,27 +43,27 @@ Lowest-scoring checks:
 ## Release
 
 - **Latest**: `0.25.0` (2026-10-22)
-- **Last commit**: 2026-10-25
+- **Last commit**: 2026-10-26
 - **Assets in release**: 2
 
 ## Popularity
 
-- **Stars**: 9,685 · **Forks**: 753 · **Open issues**: 2,860 · **Contributors**: 356
+- **Stars**: 9,684 · **Forks**: 753 · **Open issues**: 2,860 · **Contributors**: 356
 
 ## Totals (cumulative)
 
-- **Releases**: 147 · **Merged PRs**: 3086 · **Open PRs**: 23 · **Closed issues**: 2791 · **Open issues**: 69 · **Commits**: 11993
+- **Releases**: 147 · **Merged PRs**: 3089 · **Open PRs**: 21 · **Closed issues**: 2791 · **Open issues**: 69 · **Commits**: 11996
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-26 | 1 | 17 | 14 | 2 | 5 | 20 |
-| last60d | 2026-08-27 | 1 | 32 | 15 | 3 | 6 | 35 |
-| 90d | 2026-07-28 | 3 | 47 | 17 | 5 | 8 | 58 |
-| last180d | 2026-04-29 | 10 | 165 | 21 | 25 | 13 | 210 |
-| 360d | 2025-10-31 | 27 | 434 | 22 | 122 | 28 | 952 |
-| last720d | 2024-11-05 | 36 | 501 | 22 | 200 | 31 | 1183 |
+| 30d | 2026-09-27 | 1 | 19 | 12 | 2 | 5 | 23 |
+| last60d | 2026-08-28 | 1 | 35 | 13 | 3 | 6 | 38 |
+| 90d | 2026-07-29 | 3 | 50 | 15 | 5 | 8 | 61 |
+| last180d | 2026-04-30 | 10 | 168 | 19 | 25 | 13 | 213 |
+| 360d | 2025-11-01 | 27 | 437 | 20 | 121 | 28 | 955 |
+| last720d | 2024-11-06 | 36 | 504 | 20 | 200 | 31 | 1186 |
 
 ## Release assets
 
@@ -100,4 +100,4 @@ Install metadata for xonsh lives in the [x-cmd/install](https://github.com/x-cmd
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261026.yml` · 2026-10-26T04:55:28Z._
+_Snapshot: `data/card/261027.yml` · 2026-10-27T05:14:02Z._
