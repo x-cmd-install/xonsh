@@ -14,11 +14,11 @@ x install xonsh
 
 ## Code insight
 
-Total: **133,704** lines of code across **443** files in the top 5 languages.
+Total: **133,731** lines of code across **443** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| Python | 90,329 | 7,740 | 18,098 | 341 |
+| Python | 90,356 | 7,744 | 18,100 | 341 |
 | Css | 23,617 | 467 | 2,968 | 23 |
 | ReStructuredText | 9,587 | 0 | 3,603 | 53 |
 | Svg | 8,697 | 5 | 2 | 6 |
@@ -43,7 +43,7 @@ Lowest-scoring checks:
 ## Release
 
 - **Latest**: `0.25.0` (2026-10-22)
-- **Last commit**: 2026-10-26
+- **Last commit**: 2026-10-27
 - **Assets in release**: 2
 
 ## Popularity
@@ -52,18 +52,18 @@ Lowest-scoring checks:
 
 ## Totals (cumulative)
 
-- **Releases**: 147 · **Merged PRs**: 3089 · **Open PRs**: 21 · **Closed issues**: 2791 · **Open issues**: 69 · **Commits**: 11996
+- **Releases**: 147 · **Merged PRs**: 3092 · **Open PRs**: 20 · **Closed issues**: 2791 · **Open issues**: 69 · **Commits**: 11999
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-27 | 1 | 19 | 12 | 2 | 5 | 23 |
-| last60d | 2026-08-28 | 1 | 35 | 13 | 3 | 6 | 38 |
-| 90d | 2026-07-29 | 3 | 50 | 15 | 5 | 8 | 61 |
-| last180d | 2026-04-30 | 10 | 168 | 19 | 25 | 13 | 213 |
-| 360d | 2025-11-01 | 27 | 437 | 20 | 121 | 28 | 955 |
-| last720d | 2024-11-06 | 36 | 504 | 20 | 200 | 31 | 1186 |
+| 30d | 2026-09-28 | 1 | 21 | 11 | 2 | 5 | 25 |
+| last60d | 2026-08-29 | 1 | 38 | 12 | 3 | 6 | 40 |
+| 90d | 2026-07-30 | 3 | 52 | 14 | 4 | 8 | 63 |
+| last180d | 2026-05-01 | 9 | 169 | 18 | 23 | 13 | 215 |
+| 360d | 2025-11-02 | 27 | 440 | 19 | 121 | 28 | 957 |
+| last720d | 2024-11-07 | 36 | 507 | 19 | 200 | 31 | 1189 |
 
 ## Release assets
 
@@ -100,4 +100,4 @@ Install metadata for xonsh lives in the [x-cmd/install](https://github.com/x-cmd
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261027.yml` · 2026-10-27T05:14:02Z._
+_Snapshot: `data/card/261028.yml` · 2026-10-28T05:47:02Z._
