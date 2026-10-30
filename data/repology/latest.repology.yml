@@ -58,21 +58,6 @@
     - gordon@chronitis.net
   categories:
     - misc
-- repo: parrot
-  subrepo: parrot/main
-  srcname: xonsh
-  binnames:
-    - xonsh
-    - xonsh-doc
-  visiblename: xonsh
-  version: 0.19.4
-  origversion: 0.19.4+dfsg-1
-  status: outdated
-  maintainers:
-    - team+python@tracker.debian.org
-    - gordon@chronitis.net
-  categories:
-    - misc
 - repo: alpine_edge
   subrepo: testing
   srcname: xonsh
@@ -139,9 +124,9 @@
   srcname: xonsh
   binname: xonsh
   visiblename: xonsh
-  version: 0.24.2
-  origversion: 0.24.2-1
-  status: outdated
+  version: 0.25.0
+  origversion: 0.25.0-1
+  status: newest
   summary: A python-powered shell. Full-featured and cross-platform.
   licenses:
     - BSD-2-Clause
@@ -351,20 +336,6 @@
   categories:
     - Unspecified
 - repo: fedora_42
-  subrepo: release
-  srcname: xonsh
-  binnames:
-    - xonsh
-  visiblename: xonsh
-  version: 0.19.3
-  origversion: 0.19.3-1.fc42
-  status: legacy
-  summary: A general purpose, Python-ish shell
-  licenses:
-    - BSD-2-Clause AND MIT
-  categories:
-    - Unspecified
-- repo: fedora_42
   subrepo: updates
   srcname: xonsh
   binnames:
@@ -373,6 +344,20 @@
   version: 0.22.1
   origversion: 0.22.1-1.fc42
   status: outdated
+  summary: A general purpose, Python-ish shell
+  licenses:
+    - BSD-2-Clause AND MIT
+  categories:
+    - Unspecified
+- repo: fedora_42
+  subrepo: release
+  srcname: xonsh
+  binnames:
+    - xonsh
+  visiblename: xonsh
+  version: 0.19.3
+  origversion: 0.19.3-1.fc42
+  status: legacy
   summary: A general purpose, Python-ish shell
   licenses:
     - BSD-2-Clause AND MIT
@@ -715,6 +700,21 @@
     - misc
 - repo: parrot
   subrepo: parrot-updates/main
+  srcname: xonsh
+  binnames:
+    - xonsh
+    - xonsh-doc
+  visiblename: xonsh
+  version: 0.19.4
+  origversion: 0.19.4+dfsg-1
+  status: outdated
+  maintainers:
+    - team+python@tracker.debian.org
+    - gordon@chronitis.net
+  categories:
+    - misc
+- repo: parrot
+  subrepo: parrot/main
   srcname: xonsh
   binnames:
     - xonsh
