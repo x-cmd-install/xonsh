@@ -1,27 +1,32 @@
-- repo: manjaro_testing
-  subrepo: extra
-  srcname: xonsh
-  binname: xonsh
-  visiblename: xonsh
-  version: 0.14.1
-  origversion: 0.14.1-1
-  status: outdated
-  summary: Python-powered, cross-platform, Unix-gazing shell
-  licenses:
-    - BSD
-- repo: manjaro_unstable
-  subrepo: extra
-  srcname: xonsh
+- repo: aosc
+  srcname: lang-python/xonsh
   binname: xonsh
   visiblename: xonsh
   version: 0.24.2
-  origversion: 0.24.2-1
+  origversion: null
   status: outdated
-  summary: A python-powered shell. Full-featured and cross-platform.
-  licenses:
-    - BSD-2-Clause
+  summary: Python-powered shell
+  maintainers:
+    - fallback-mnt-aosc@repology
+  categories:
+    - shells
 - repo: parrot
   subrepo: parrot-updates/main
+  srcname: xonsh
+  binnames:
+    - xonsh
+    - xonsh-doc
+  visiblename: xonsh
+  version: 0.19.4
+  origversion: 0.19.4+dfsg-1
+  status: outdated
+  maintainers:
+    - team+python@tracker.debian.org
+    - gordon@chronitis.net
+  categories:
+    - misc
+- repo: parrot
+  subrepo: parrot/main
   srcname: xonsh
   binnames:
     - xonsh
@@ -61,33 +66,6 @@
     - donoban@riseup.net
   licenses:
     - BSD-2-Clause
-- repo: aosc
-  srcname: lang-python/xonsh
-  binname: xonsh
-  visiblename: xonsh
-  version: 0.24.2
-  origversion: null
-  status: outdated
-  summary: Python-powered shell
-  maintainers:
-    - fallback-mnt-aosc@repology
-  categories:
-    - shells
-- repo: parrot
-  subrepo: parrot/main
-  srcname: xonsh
-  binnames:
-    - xonsh
-    - xonsh-doc
-  visiblename: xonsh
-  version: 0.19.4
-  origversion: 0.19.4+dfsg-1
-  status: outdated
-  maintainers:
-    - team+python@tracker.debian.org
-    - gordon@chronitis.net
-  categories:
-    - misc
 - repo: arch
   subrepo: extra
   srcname: xonsh
@@ -508,6 +486,28 @@
   summary: Python-powered, cross-platform, Unix-gazing shell
   licenses:
     - BSD
+- repo: manjaro_testing
+  subrepo: extra
+  srcname: xonsh
+  binname: xonsh
+  visiblename: xonsh
+  version: 0.14.1
+  origversion: 0.14.1-1
+  status: outdated
+  summary: Python-powered, cross-platform, Unix-gazing shell
+  licenses:
+    - BSD
+- repo: manjaro_unstable
+  subrepo: extra
+  srcname: xonsh
+  binname: xonsh
+  visiblename: xonsh
+  version: 0.24.2
+  origversion: 0.24.2-1
+  status: outdated
+  summary: A python-powered shell. Full-featured and cross-platform.
+  licenses:
+    - BSD-2-Clause
 - repo: nix_stable_24_05
   srcname: xonsh
   visiblename: xonsh
@@ -566,9 +566,9 @@
 - repo: nix_unstable
   srcname: xonsh
   visiblename: xonsh
-  version: 0.24.2
+  version: 0.25.0
   origversion: null
-  status: outdated
+  status: newest
   summary: Python-powered shell
   maintainers:
     - samlukeyes123@gmail.com
