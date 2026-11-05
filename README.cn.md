@@ -31,8 +31,8 @@ x install xonsh
 评分最低的几项:
 
 - **Token-Permissions** (0/10) — detected GitHub workflow tokens with excessive permissions
-- **Pinned-Dependencies** (3/10) — dependency not pinned by hash detected -- score normalized to 3
 - **CII-Best-Practices** (0/10) — no effort to earn an OpenSSF best practices badge detected
+- **Pinned-Dependencies** (3/10) — dependency not pinned by hash detected -- score normalized to 3
 
 ## 源代码
 
@@ -48,22 +48,22 @@ x install xonsh
 
 ## 流行度
 
-- **Star**: 9,683 · **Fork**: 756 · **开放 issue**: 2,862 · **贡献者**: 356
+- **Star**: 9,683 · **Fork**: 758 · **开放 issue**: 2,862 · **贡献者**: 356
 
 ## 累计统计
 
-- **发布数**: 147 · **已合并 PR**: 3097 · **开放 PR**: 20 · **已关闭 issue**: 2793 · **开放 issue**: 69 · **提交数**: 12004
+- **发布数**: 147 · **已合并 PR**: 3097 · **开放 PR**: 22 · **已关闭 issue**: 2793 · **开放 issue**: 69 · **提交数**: 12004
 
 ## 最近活动
 
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-05 | 1 | 22 | 11 | 3 | 5 | 25 |
-| last60d | 2026-09-05 | 1 | 40 | 11 | 5 | 5 | 46 |
-| 90d | 2026-08-06 | 2 | 55 | 14 | 6 | 7 | 64 |
-| last180d | 2026-05-08 | 7 | 149 | 18 | 19 | 13 | 201 |
-| 360d | 2025-11-09 | 27 | 445 | 19 | 121 | 28 | 962 |
-| last720d | 2024-11-14 | 36 | 512 | 19 | 200 | 31 | 1194 |
+| 30d | 2026-10-06 | 1 | 20 | 12 | 3 | 5 | 25 |
+| last60d | 2026-09-06 | 1 | 39 | 13 | 5 | 5 | 46 |
+| 90d | 2026-08-07 | 2 | 55 | 16 | 6 | 7 | 64 |
+| last180d | 2026-05-09 | 7 | 146 | 20 | 19 | 13 | 201 |
+| 360d | 2025-11-10 | 27 | 445 | 21 | 120 | 28 | 962 |
+| last720d | 2024-11-15 | 36 | 512 | 21 | 200 | 31 | 1194 |
 
 ## Release 资产
 
@@ -100,4 +100,4 @@ xonsh 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install) �
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/261104.yml` · 2026-11-04T06:32:14Z._
+_数据快照: `data/card/261105.yml` · 2026-11-05T06:56:32Z._
