@@ -48,22 +48,22 @@ Lowest-scoring checks:
 
 ## Popularity
 
-- **Stars**: 9,685 · **Forks**: 759 · **Open issues**: 2,862 · **Contributors**: 356
+- **Stars**: 9,687 · **Forks**: 758 · **Open issues**: 2,863 · **Contributors**: 356
 
 ## Totals (cumulative)
 
-- **Releases**: 147 · **Merged PRs**: 3097 · **Open PRs**: 22 · **Closed issues**: 2793 · **Open issues**: 69 · **Commits**: 12004
+- **Releases**: 147 · **Merged PRs**: 3097 · **Open PRs**: 22 · **Closed issues**: 2793 · **Open issues**: 70 · **Commits**: 12004
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-07 | 1 | 20 | 11 | 3 | 5 | 25 |
-| last60d | 2026-09-07 | 1 | 38 | 13 | 5 | 5 | 46 |
-| 90d | 2026-08-08 | 2 | 55 | 16 | 6 | 7 | 64 |
-| last180d | 2026-05-10 | 7 | 144 | 20 | 19 | 13 | 201 |
-| 360d | 2025-11-11 | 27 | 445 | 21 | 120 | 28 | 962 |
-| last720d | 2024-11-16 | 36 | 512 | 21 | 200 | 31 | 1194 |
+| 30d | 2026-10-08 | 1 | 20 | 11 | 3 | 6 | 25 |
+| last60d | 2026-09-08 | 1 | 38 | 13 | 5 | 6 | 46 |
+| 90d | 2026-08-09 | 2 | 54 | 16 | 6 | 8 | 64 |
+| last180d | 2026-05-11 | 7 | 141 | 20 | 18 | 14 | 201 |
+| 360d | 2025-11-12 | 27 | 444 | 21 | 119 | 29 | 962 |
+| last720d | 2024-11-17 | 36 | 510 | 21 | 200 | 32 | 1191 |
 
 ## Release assets
 
@@ -74,7 +74,7 @@ Lowest-scoring checks:
 
 ## Distribution status
 
-Reported by **72** distros on [repology.org](https://repology.org/project/xonsh). **8** are ✅ on the latest upstream release, **58** are ⚠️ on an older version.
+Reported by **72** distros on [repology.org](https://repology.org/project/xonsh). **10** are ✅ on the latest upstream release, **56** are ⚠️ on an older version.
 
 | Distro | Version | Status |
 |--------|---------|--------|
@@ -100,4 +100,4 @@ Install metadata for xonsh lives in the [x-cmd/install](https://github.com/x-cmd
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261106.yml` · 2026-11-06T06:52:27Z._
+_Snapshot: `data/card/261107.yml` · 2026-11-07T06:12:26Z._
