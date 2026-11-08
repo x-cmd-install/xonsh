@@ -52,18 +52,18 @@ Lowest-scoring checks:
 
 ## Totals (cumulative)
 
-- **Releases**: 147 · **Merged PRs**: 3097 · **Open PRs**: 22 · **Closed issues**: 2793 · **Open issues**: 70 · **Commits**: 12004
+- **Releases**: 147 · **Merged PRs**: 3097 · **Open PRs**: 23 · **Closed issues**: 2793 · **Open issues**: 70 · **Commits**: 12004
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-08 | 1 | 20 | 11 | 3 | 6 | 25 |
-| last60d | 2026-09-08 | 1 | 38 | 13 | 5 | 6 | 46 |
-| 90d | 2026-08-09 | 2 | 54 | 16 | 6 | 8 | 64 |
-| last180d | 2026-05-11 | 7 | 141 | 20 | 18 | 14 | 201 |
-| 360d | 2025-11-12 | 27 | 444 | 21 | 119 | 29 | 962 |
-| last720d | 2024-11-17 | 36 | 510 | 21 | 200 | 32 | 1191 |
+| 30d | 2026-10-09 | 1 | 20 | 11 | 3 | 6 | 23 |
+| last60d | 2026-09-09 | 1 | 37 | 14 | 5 | 6 | 37 |
+| 90d | 2026-08-10 | 2 | 53 | 17 | 6 | 8 | 61 |
+| last180d | 2026-05-12 | 6 | 140 | 21 | 18 | 14 | 172 |
+| 360d | 2025-11-13 | 27 | 444 | 22 | 118 | 29 | 956 |
+| last720d | 2024-11-18 | 36 | 509 | 22 | 199 | 32 | 1189 |
 
 ## Release assets
 
@@ -100,4 +100,4 @@ Install metadata for xonsh lives in the [x-cmd/install](https://github.com/x-cmd
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261107.yml` · 2026-11-07T06:12:26Z._
+_Snapshot: `data/card/261108.yml` · 2026-11-08T06:14:06Z._
