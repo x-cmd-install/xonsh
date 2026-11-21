@@ -48,7 +48,7 @@ Lowest-scoring checks:
 
 ## Popularity
 
-- **Stars**: 9,704 · **Forks**: 764 · **Open issues**: 2,867 · **Contributors**: 356
+- **Stars**: 9,704 · **Forks**: 763 · **Open issues**: 2,867 · **Contributors**: 356
 
 ## Totals (cumulative)
 
@@ -58,12 +58,12 @@ Lowest-scoring checks:
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-21 | 1 | 14 | 15 | 2 | 6 | 17 |
-| last60d | 2026-09-21 | 1 | 30 | 25 | 4 | 10 | 36 |
-| 90d | 2026-08-22 | 2 | 47 | 27 | 5 | 12 | 51 |
-| last180d | 2026-05-24 | 5 | 114 | 32 | 16 | 15 | 146 |
-| 360d | 2025-11-25 | 26 | 436 | 33 | 108 | 32 | 938 |
-| last720d | 2024-11-30 | 36 | 510 | 33 | 196 | 36 | 1190 |
+| 30d | 2026-10-22 | 1 | 14 | 15 | 2 | 6 | 17 |
+| last60d | 2026-09-22 | 1 | 30 | 25 | 4 | 10 | 36 |
+| 90d | 2026-08-23 | 2 | 46 | 27 | 5 | 11 | 51 |
+| last180d | 2026-05-25 | 5 | 111 | 32 | 16 | 15 | 146 |
+| 360d | 2025-11-26 | 26 | 436 | 33 | 107 | 32 | 938 |
+| last720d | 2024-12-01 | 36 | 510 | 33 | 196 | 36 | 1190 |
 
 ## Release assets
 
@@ -74,7 +74,7 @@ Lowest-scoring checks:
 
 ## Distribution status
 
-Reported by **73** distros on [repology.org](https://repology.org/project/xonsh). **10** are ✅ on the latest upstream release, **57** are ⚠️ on an older version.
+Reported by **72** distros on [repology.org](https://repology.org/project/xonsh). **10** are ✅ on the latest upstream release, **56** are ⚠️ on an older version.
 
 | Distro | Version | Status |
 |--------|---------|--------|
@@ -100,4 +100,4 @@ Install metadata for xonsh lives in the [x-cmd/install](https://github.com/x-cmd
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261120.yml` · 2026-11-20T08:29:00Z._
+_Snapshot: `data/card/261121.yml` · 2026-11-21T07:57:12Z._
