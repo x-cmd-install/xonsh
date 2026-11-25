@@ -58,12 +58,12 @@ x install xonsh
 
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-25 | 0 | 13 | 16 | 1 | 7 | 7 |
-| last60d | 2026-09-25 | 1 | 30 | 26 | 4 | 11 | 34 |
-| 90d | 2026-08-26 | 1 | 45 | 27 | 5 | 12 | 50 |
-| last180d | 2026-05-28 | 5 | 111 | 33 | 16 | 16 | 126 |
-| 360d | 2025-11-29 | 26 | 430 | 34 | 105 | 33 | 925 |
-| last720d | 2024-12-04 | 36 | 510 | 34 | 195 | 37 | 1189 |
+| 30d | 2026-10-26 | 0 | 8 | 16 | 1 | 7 | 7 |
+| last60d | 2026-09-26 | 1 | 30 | 26 | 4 | 11 | 34 |
+| 90d | 2026-08-27 | 1 | 45 | 27 | 5 | 12 | 50 |
+| last180d | 2026-05-29 | 5 | 111 | 33 | 16 | 16 | 126 |
+| 360d | 2025-11-30 | 26 | 430 | 34 | 102 | 33 | 925 |
+| last720d | 2024-12-05 | 36 | 510 | 34 | 195 | 37 | 1189 |
 
 ## Release 资产
 
@@ -71,25 +71,6 @@ x install xonsh
 |------|-----:|----------|
 | [xonsh-x86_64.AppImage](https://github.com/xonsh/xonsh/releases/download/0.25.0/xonsh-x86_64.AppImage) | 28.5 MiB | `other` |
 | [xonsh-x86_64.AppImage.sha256](https://github.com/xonsh/xonsh/releases/download/0.25.0/xonsh-x86_64.AppImage.sha256) | 88 B | `other` |
-
-## 发行版状态
-
-在 [repology.org](https://repology.org/project/xonsh) 上共有 **72** 个发行版报告此项目。**11** 个 ✅ 已是最新上游版本，**55** 个 ⚠️ 使用旧版本。
-
-| 发行版 | 版本 | 状态 |
-|--------|------|------|
-| Debian unstable | `0.24.0` | ⚠️ outdated |
-| Debian 14 | `0.24.0` | ⚠️ outdated |
-| Debian 13 | `0.19.4` | ⚠️ outdated |
-| Ubuntu 26.04 LTS | `0.22.3` | ⚠️ outdated |
-| Ubuntu 24.04 LTS | `0.14.4` | ⚠️ outdated |
-| Arch | `0.25.0` | ✅ latest |
-| Homebrew | `0.25.0` | ✅ latest |
-| Fedora rawhide | `0.24.1` | ⚠️ outdated |
-| Nix unstable | `0.25.0` | ✅ latest |
-| Void | `0.23.1` | ⚠️ outdated |
-| Alpine edge | `0.22.8` | ⚠️ outdated |
-| openSUSE Tumbleweed | `0.24.0` | ⚠️ outdated |
 
 ## 改进这些数据
 
@@ -100,4 +81,4 @@ xonsh 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install) �
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/261124.yml` · 2026-11-24T10:13:34Z._
+_数据快照: `data/card/261125.yml` · 2026-11-25T08:42:23Z._
