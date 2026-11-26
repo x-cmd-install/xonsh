@@ -31,8 +31,8 @@ Overall score: **4.9 / 10**
 Lowest-scoring checks:
 
 - **Token-Permissions** (0/10) — detected GitHub workflow tokens with excessive permissions
-- **Pinned-Dependencies** (3/10) — dependency not pinned by hash detected -- score normalized to 3
 - **CII-Best-Practices** (0/10) — no effort to earn an OpenSSF best practices badge detected
+- **Fuzzing** (0/10) — project is not fuzzed
 
 ## Source
 
@@ -48,22 +48,22 @@ Lowest-scoring checks:
 
 ## Popularity
 
-- **Stars**: 9,705 · **Forks**: 763 · **Open issues**: 2,868 · **Contributors**: 356
+- **Stars**: 9,708 · **Forks**: 763 · **Open issues**: 2,869 · **Contributors**: 356
 
 ## Totals (cumulative)
 
-- **Releases**: 147 · **Merged PRs**: 3099 · **Open PRs**: 35 · **Closed issues**: 2793 · **Open issues**: 75 · **Commits**: 12006
+- **Releases**: 147 · **Merged PRs**: 3099 · **Open PRs**: 35 · **Closed issues**: 2793 · **Open issues**: 76 · **Commits**: 12006
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-26 | 0 | 8 | 16 | 1 | 7 | 7 |
-| last60d | 2026-09-26 | 1 | 30 | 26 | 4 | 11 | 34 |
-| 90d | 2026-08-27 | 1 | 45 | 27 | 5 | 12 | 50 |
-| last180d | 2026-05-29 | 5 | 111 | 33 | 16 | 16 | 126 |
-| 360d | 2025-11-30 | 26 | 430 | 34 | 102 | 33 | 925 |
-| last720d | 2024-12-05 | 36 | 510 | 34 | 195 | 37 | 1189 |
+| 30d | 2026-10-27 | 0 | 7 | 15 | 1 | 8 | 7 |
+| last60d | 2026-09-27 | 1 | 29 | 26 | 4 | 12 | 34 |
+| 90d | 2026-08-28 | 1 | 45 | 27 | 5 | 13 | 50 |
+| last180d | 2026-05-30 | 5 | 108 | 32 | 16 | 17 | 126 |
+| 360d | 2025-12-01 | 26 | 428 | 34 | 102 | 33 | 925 |
+| last720d | 2024-12-06 | 36 | 510 | 34 | 195 | 38 | 1189 |
 
 ## Release assets
 
@@ -81,4 +81,4 @@ Install metadata for xonsh lives in the [x-cmd/install](https://github.com/x-cmd
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261125.yml` · 2026-11-25T08:42:22Z._
+_Snapshot: `data/card/261126.yml` · 2026-11-26T08:26:00Z._
