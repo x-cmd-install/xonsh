@@ -48,22 +48,22 @@ Lowest-scoring checks:
 
 ## Popularity
 
-- **Stars**: 9,710 · **Forks**: 763 · **Open issues**: 2,869 · **Contributors**: 356
+- **Stars**: 9,710 · **Forks**: 762 · **Open issues**: 2,870 · **Contributors**: 356
 
 ## Totals (cumulative)
 
-- **Releases**: 147 · **Merged PRs**: 3099 · **Open PRs**: 35 · **Closed issues**: 2793 · **Open issues**: 76 · **Commits**: 12006
+- **Releases**: 147 · **Merged PRs**: 3099 · **Open PRs**: 35 · **Closed issues**: 2793 · **Open issues**: 77 · **Commits**: 12006
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-28 | 0 | 6 | 15 | 1 | 8 | 7 |
-| last60d | 2026-09-28 | 1 | 28 | 26 | 4 | 12 | 34 |
-| 90d | 2026-08-29 | 1 | 45 | 27 | 5 | 13 | 50 |
-| last180d | 2026-05-31 | 4 | 105 | 32 | 16 | 17 | 126 |
-| 360d | 2025-12-02 | 26 | 428 | 34 | 102 | 33 | 925 |
-| last720d | 2024-12-07 | 36 | 509 | 34 | 195 | 38 | 1189 |
+| 30d | 2026-10-29 | 0 | 5 | 15 | 0 | 9 | 7 |
+| last60d | 2026-09-29 | 1 | 28 | 26 | 4 | 13 | 34 |
+| 90d | 2026-08-30 | 1 | 44 | 27 | 5 | 14 | 50 |
+| last180d | 2026-06-01 | 4 | 101 | 32 | 16 | 17 | 126 |
+| 360d | 2025-12-03 | 26 | 428 | 34 | 102 | 34 | 925 |
+| last720d | 2024-12-08 | 36 | 509 | 34 | 195 | 39 | 1189 |
 
 ## Release assets
 
@@ -81,4 +81,4 @@ Install metadata for xonsh lives in the [x-cmd/install](https://github.com/x-cmd
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261127.yml` · 2026-11-27T08:47:44Z._
+_Snapshot: `data/card/261128.yml` · 2026-11-28T07:54:38Z._
